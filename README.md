@@ -5,7 +5,7 @@ kelas : TI.24.A.5
 ## menentukan bilangan terbesar
 
 ### flowchart
-![gambar 1](screen/ss3.png)
+![gambar 1](screen/ss3)
 
 ### program python
 ![gambar 2](screen/ss1)
